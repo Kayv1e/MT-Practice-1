@@ -1,1 +1,1 @@
-# MT-Practice-1
+![Graph](Graph.png)
